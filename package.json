@@ -1,0 +1,9 @@
+{
+  "name": "ns-christoga",
+  "dependencies": {
+    "list": "latest"
+  },
+  "scripts": {
+    "start": "list"
+  }
+}
